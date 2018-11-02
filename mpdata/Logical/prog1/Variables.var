@@ -1,0 +1,17 @@
+VAR CONSTANT
+	MAX_ROWS : UINT := 100;
+END_VAR
+VAR
+	i : INT;
+	index : UINT := 0;
+	record : DataRecordTyp;
+	data : ARRAY[0..MAX_ROWS] OF DataRecordTyp;
+	s1 : STRING[80];
+	s2 : STRING[80];
+	step : UINT;
+	MpDataRegPar_1 : MpDataRegPar;
+	MpDataRegPar_2 : MpDataRegPar;
+	MpDataRegPar_0 : MpDataRegPar;
+	MpDataRecorder_0 : MpDataRecorder;
+	writeCSV : USINT; (*Kommando*)
+END_VAR
