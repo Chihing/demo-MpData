@@ -3,7 +3,8 @@ B&amp;R Automation Studio  demo for MpData
 record data and store as CSV file.
 
 # Sample Data
-![Sample](https://github.com/hilch/demo-MpData/blob/master/recording.PNG)
+![Sample](https://github.com/hilch/demo-MpData/blob/AutomationStudio4.2/recording.PNG)
+
 
 # Usage
-![HowToUse](https://github.com/hilch/demo-MpData/blob/master/howTo.PNG)
+![HowToUse](https://github.com/hilch/demo-MpData/blob/AutomationStudio4.2/recording.PNG)
