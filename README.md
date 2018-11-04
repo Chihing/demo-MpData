@@ -7,3 +7,4 @@ record data and store as CSV file.
 
 # Usage
 ![HowToUse](https://github.com/hilch/demo-MpData/blob/master/howTo.PNG)
+set 'writeCSV' to '1' the program signals 'busy' by '2' and 'ready' by '0'.
